@@ -64,3 +64,113 @@ button:hover {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+.btn-banner {
+    width: 270px;
+    height: 56px;
+}
+.pillars-1 {
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+}
+.sec-header {
+    margin: 60px 0 15px 0;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+}
+.pillars {
+    width: auto;
+    height: auto;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    font-size: 16px;
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 20px 0 20px 0;
+    margin: 0;
+}
+.pillars-h4 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.sec-2-pass {
+    margin-left: 0;
+}
+.pillars button {
+    width: 125px;
+    height: 45px;
+    border-radius: 8px;
+}
+.sec-3-1 {
+    margin: 0;
+    background-image: url(./image/quote-bg.png);
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.sec-03 {
+    height: 140px;
+    width: auto;
+    margin-left: 0;
+    margin-top: 20px;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 16px;
+}
+.sec-3-1 h4 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+}
+.container {
+    margin-left: 0;
+}
+.news-card {
+    display: flex;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: 0;
+    align-items: center;
+}
+.news-card img {
+    border-radius: 10px;
+}
+.recent-news {
+    margin-left: 0;
+}
+.news-content {
+    margin-left: 0;
+    margin-right: 0;
+}
+.mgp {
+    margin-bottom: 15px;
+}
+.gap {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: rgba(14, 14, 14, 0.7);
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+time {
+    display: block;
+}
+.cnt {
+    text-align: center;
+}
+.taka-1 {
+    margin-left: 0;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
